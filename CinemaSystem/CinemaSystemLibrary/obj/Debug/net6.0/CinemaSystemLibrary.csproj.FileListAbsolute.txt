@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\bin\Debug\net6.0\CinemaSystemLibrary.deps.json
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\bin\Debug\net6.0\CinemaSystemLibrary.dll
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\bin\Debug\net6.0\CinemaSystemLibrary.pdb
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\CinemaSystemLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\CinemaSystemLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\CinemaSystemLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\CinemaSystemLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\CinemaSystemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\CinemaSystemLibrary.dll
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\refint\CinemaSystemLibrary.dll
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\CinemaSystemLibrary.pdb
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\ref\CinemaSystemLibrary.dll
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\bin\Debug\net6.0\CinemaSystemLibrary.runtimeconfig.json
+C:\Users\Admin\Desktop\7_Fall23_Sem7\2_PRN221\final_project\CinemaSystem\CinemaSystemLibrary\obj\Debug\net6.0\CinemaSystemLibrary.genruntimeconfig.cache
